@@ -1,4 +1,6 @@
-streamlit
-opencv-python-headless
+streamlit==1.33.0
+opencv-python-headless==4.8.1.78
 numpy
 ultralytics
+torch
+torchvision
